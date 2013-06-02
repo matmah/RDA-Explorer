@@ -1,2 +1,6 @@
-/nbproject/
-/build.xml
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
